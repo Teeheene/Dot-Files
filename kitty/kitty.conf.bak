@@ -1,0 +1,38 @@
+# Cute Light Pink Theme for Kitty 🌸
+
+foreground              #5a4a56
+background              #ffeef8
+cursor                  #ff8ac6
+
+# Normal colors
+color0                  #f8d8e3
+color1                  #ff6f91  
+color2                  #416175 
+color3                  #ffd5a5 
+color4                  #a0c4ff  
+color5                  #e0aaff 
+color6                  #506e47  
+color7                  #5a4a56  
+
+# Bright colors
+color8                  #fddde6
+color9                  #ff8ac6  
+color10                 #1c3747 
+color11                 #ffeab6 
+color12                 #cde3ff 
+color13                 #f7c6ff 
+color14                 #395c2f 
+color15                 #3b2f38 
+
+# Selection and cursor
+selection_foreground    #ffffff
+selection_background    #ffb3d1
+
+cursor_text_color       #ffffff
+
+disable_ligatures	never
+font_family      JetBrainsMono Nerd Font Mono Bold
+bold_font        JetBrainsMono Nerd Font Mono ExtraBold
+italic_font      JetBrainsMono Nerd Font Mono Italic
+bold_italic_font JetBrainsMono Nerd Font Mono ExtraBold Italic
+
